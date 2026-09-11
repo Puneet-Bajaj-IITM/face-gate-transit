@@ -39,3 +39,12 @@ frontend/.env
 frontend/out/
 frontend/dist/
 frontend/src/config/firebase.js
+
+# backend
+*.h5
+users.db
+temp/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
